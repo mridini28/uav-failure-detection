@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.pyc
+ml_env/
+
+# ROS2 build artifacts
+build/
+install/
+log/
